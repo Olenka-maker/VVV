@@ -1,0 +1,38 @@
+h1, h2 {
+ text-align:center;
+  color:#2e084d ;
+}
+
+.p {
+   text-align:center;
+}
+
+body {
+  background-color:#b78dcc;
+}
+
+.ney {
+  color:#d3cadb;
+}
+
+.neybxrf {
+  color:#37064f ;
+}
+
+.rere {
+   text-align: center;
+}
+
+.cbkrf {
+    border-radius:5px;
+    background-color:#9a71bc;
+    color:#2e084d;
+}
+
+nav {
+   text-align: center; 
+}
+
+img {
+    border: 5px solid #2e084d ;
+}
